@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+
+Hello everyone! 
+My name is Lusparon and i am student.
