@@ -2,4 +2,4 @@
 
 
 Hello everyone! 
-My name is Lusparon and i am student.
+My name is Lusparon and i am a student.
